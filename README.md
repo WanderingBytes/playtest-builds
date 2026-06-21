@@ -6,6 +6,6 @@ Shareable web builds for in-development games. **Each game is its own subfolder*
 - Only the **exported playable web build** is published here.
 - Hosted free via **GitHub Pages** (public repo = free unlimited Pages).
 
-## Live builds
+## ▶ Play now
 
-- **The Last Keep** (castle-defense spike) → [`the-last-keep/`](./the-last-keep/)
+- **The Last Keep** (castle-defense spike) — **[▶ Play in browser](https://wanderingbytes.github.io/playtest-builds/the-last-keep/)**  ·  plays on desktop + mobile, no install  ·  <sub>[build folder](./the-last-keep/)</sub>
